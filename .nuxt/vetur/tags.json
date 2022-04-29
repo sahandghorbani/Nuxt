@@ -1,0 +1,26 @@
+{
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "LazyNavbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "Post": {
+    "description": "Auto imported from components/Post.vue"
+  },
+  "LazyPost": {
+    "description": "Auto imported from components/Post.vue"
+  },
+  "PostList": {
+    "description": "Auto imported from components/PostList.vue"
+  },
+  "LazyPostList": {
+    "description": "Auto imported from components/PostList.vue"
+  },
+  "AdminPostForm": {
+    "description": "Auto imported from components/Admin/AdminPostForm.vue"
+  },
+  "LazyAdminPostForm": {
+    "description": "Auto imported from components/Admin/AdminPostForm.vue"
+  }
+}
